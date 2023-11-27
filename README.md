@@ -1,2 +1,5 @@
+LOCAL
+
 # Exercice
+
 hello hello
